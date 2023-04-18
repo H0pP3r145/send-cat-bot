@@ -1,3 +1,3 @@
 # send-cat-bot
 
-this is
+this is a telegram bot
